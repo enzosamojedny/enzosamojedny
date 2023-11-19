@@ -1,7 +1,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzosamojedny)](https://github.com/enzosamojedny/github-readme-stats)
 
 - 🔭 I’m currently working on [Potenciar Solidario website](https://deploy-front-potenciar.vercel.app/)
 - 🌱 I’m currently learning Typescript and MongoDB
