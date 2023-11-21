@@ -1,4 +1,9 @@
 # 💫 About Me:
+I'm a full-stack web developer, with training from institutions like Coderhouse, Argentina Programa, and Henry (bootcamp). I possess a strong technical foundation in JavaScript, React, Redux, SQL and Node.js, along with practical experience in developing web projects. I thrive on facing new challenges and maintaining a hunger for continuous learning.
+Furthermore, I have a C2 level of English proficiency, enabling effective communication in any context.
+I'm always open to new opportunities for growth and collaboration.
+
+
 🔭 I’m currently working on [Node-handlebars](https://github.com/enzosamojedny/node-hbs) and [NodeTS](https://github.com/enzosamojedny/NodeTS) <br>👯 I’m looking to collaborate on any challenging project to increase my coding skills<br>🌱 I’m currently learning Typescript and MondoDB
 
 
