@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [[Node-handlebars](https://github.com/enzosamojedny/node-hbs)] <br>👯 I’m looking to collaborate on any challenging project to increase my coding skills<br>🌱 I’m currently learning Typescript and MondoDB
+🔭 I’m currently working on [Node-handlebars(https://github.com/enzosamojedny/node-hbs)] <br>👯 I’m looking to collaborate on any challenging project to increase my coding skills<br>🌱 I’m currently learning Typescript and MondoDB
 
 
 ## 🌐 Socials:
