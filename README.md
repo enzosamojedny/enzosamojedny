@@ -8,6 +8,7 @@ I'm always open to new opportunities for growth and collaboration.
 
 
 ## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/enzo.samoj)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enzosamojedny) 
 
 # 💻 Tech Stack:
@@ -25,3 +26,4 @@ I'm always open to new opportunities for growth and collaboration.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=enzosamojedny&icon=0&color=0)](https://visitcount.itsvg.in)
+
