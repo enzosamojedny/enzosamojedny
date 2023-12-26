@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a full-stack web developer, with training from programming courses such as Coderhouse, Argentina Programa, and Henry (bootcamp). I possess a strong technical foundation in JavaScript, React, Redux, SQL, Node.js, along with practical experience in developing web projects. I thrive on facing new challenges and maintaining a hunger for continuous learning.
+I'm a full-stack web developer, with training from programming courses such as Coderhouse, Argentina Programa, and Henry (bootcamp). I have strong technical foundations in JavaScript, React, Redux, SQL, Node.js, along with practical experience in developing web projects. I thrive on facing new challenges and maintaining a hunger for continuous learning.
 Furthermore, I have a C2 level of English proficiency, enabling effective communication in any context.
 I'm always open to new opportunities for growth and collaboration.
 
