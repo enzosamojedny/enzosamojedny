@@ -4,7 +4,7 @@ Furthermore, I have a C2 level of English proficiency, enabling effective commun
 I'm always open to new opportunities for growth and collaboration.
 
 
-🔭 I’m currently working on [Node-handlebars](https://github.com/enzosamojedny/node-hbs) and [NodeTS](https://github.com/enzosamojedny/NodeTS) <br>👯 I’m looking to collaborate on any challenging project to increase my coding skills<br>🌱 I’m currently learning Typescript and MongoDB
+🔭 I’m currently working on [Node-handlebars](https://github.com/enzosamojedny/node-hbs) and [C#](https://github.com/enzosamojedny/Preentrega-1-Csharp) <br>👯 I’m looking to collaborate on any challenging project to increase my coding skills<br>🌱 I’m currently learning Typescript and MongoDB
 
 
 ## 🌐 Socials:
