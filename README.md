@@ -5,7 +5,7 @@ Furthermore, I have a C2 level of English proficiency.
 
 I'm always open to new ideas, and learning opportunities, so feel free to reach out to me.
 
-🔭 I’m currently working on [a custom MySQL db](https://github.com/enzosamojedny/MySQLdb)<br>👯 🌱 I’m currently studying Azure az-904 to publish and maintain my dotnet projects.
+ I’m currently working on [a custom MySQL db](https://github.com/enzosamojedny/MySQLdb) and studying Azure az-904 to publish and maintain my dotnet projects.
 
 ## Contact me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enzosamojedny) 
