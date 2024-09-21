@@ -1,5 +1,5 @@
 # About Me:
-I'm a full-stack web developer. I have strong technical foundations in JS, React, C#, SQL, Node.js, along with practical experience in developing web projects and desktop apps. Right now, i'm focusing on applying my acquired C# knowledge into real-life problems and everyday challenges (it's a very fun language!).
+I'm a full-stack web developer. I have strong technical foundations in JS, React, C#, dotnet, SQL, along with practical experience in developing web projects and desktop apps. Right now, i'm focusing on applying my acquired C# knowledge into real-life problems and everyday challenges (it's a very fun language!).
 
 Furthermore, I have a C2 level of English proficiency.
 
